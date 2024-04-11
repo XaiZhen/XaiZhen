@@ -48,4 +48,4 @@ I bring a unique blend of business acumen and advanced data analysis skills to c
 <br>
 
 <h3>🏷️Projects：</h3><br>
-Please visit my portfolio page
+Please visit my portfolio page: https://github.com/XaiZhen?tab=repositories 
